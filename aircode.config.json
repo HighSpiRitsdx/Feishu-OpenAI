@@ -1,0 +1,11 @@
+{
+  "name": "ChatGPT for Feishu_Probe",
+  "runtime": "node/v16",
+  "region": "HK",
+  "envs": [
+    "feishuAppId",
+    "feishuAppSecret",
+    "OpenAISecret"
+  ],
+  "typescript": false
+}
